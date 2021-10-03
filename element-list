@@ -1,0 +1,8 @@
+com.example.demo
+com.example.demo.Configuration
+com.example.demo.Controllers
+com.example.demo.Model
+com.example.demo.Repositories
+com.example.demo.Roles
+com.example.demo.Services
+com.example.demo.Validators
